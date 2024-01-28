@@ -1,2 +1,2 @@
 # Lab_1
- Javascript programs
+    JavaScript conditional logic and looping problems
